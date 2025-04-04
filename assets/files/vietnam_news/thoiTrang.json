@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Nàng thơ chi tiền triệu chụp ảnh Tết ở hồ Gươm, phố cổ Hà Nội",
+          "moTa": "TPO - Thời tiết khá lạnh nhưng ở khu vực phố cổ, hồ Hoàn Kiếm, phố Phan Đình Phùng, chợ Đồng Xuân... xuất hiện rất nhiều nàng thơ diện áo dài, cầm hoa, thả dáng trước ống kính để có một bộ ảnh Tết.",
+          "nguon": "https://photo-baomoi.bmcdn.me/b3a88dc75084b9dae095.png",
+          "urlImage": "https://image.tienphong.vn/w1200/Uploaded/2024/kbfwoht/2024_12_17/dsc07237-3812.jpg",
+          "urlNoiDung": "https://tienphong.vn/nang-tho-chi-tien-trieu-chup-anh-tet-o-ho-guom-pho-co-ha-noi-post1701528.tpo",
+          "tacGia": "Duy Phạm",
+          "ngayDang": "Thứ Ba, 17/12/2024 - 13:15",
+          "chuyenMuc": "Thời Trang"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Laura Sunshine ra mắt bộ sưu tập nước hoa 'Bí ẩn trong vườn tiên'",
+          "moTa": "Tối ngày 16/12, Laura Sunshine đã tổ chức sự kiện ra mắt bộ sưu tập nước hoa mới với những sản phẩm độc đáo, đánh dấu bước tiến mới trong hành trình phát triển của thương hiệu.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_23_51020388/b46567138c5c65023c4d.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/laura-sunshine-ra-mat-bo-suu-tap-nuoc-hoa-bi-an-trong-vuon-tien-c51020388.epi",
+          "tacGia": "Bích Đào",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 19:55",
+          "chuyenMuc": "Thời Trang"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Những chiếc đầm 'tiệc tùng' sành điệu nhân dịp cuối năm 2024",
+          "moTa": "Các mẫu váy tua rua, lông vũ hoặc váy có khăn cổ sẽ là sự lựa chọn hoàn hảo cho bạn mặc dự tiệc \"quẩy\" cuối năm.",
+          "nguon": "https://photo-baomoi.bmcdn.me/42bc76d3ab9042ce1b81.png",
+          "urlImage": "https://ss-images.saostar.vn/wwebp1200/2024/12/18/pc/1734512358961/vln8oyyss51-pahx0y5xpb2-wleifkmcsj3.jpg",
+          "urlNoiDung": "https://www.saostar.vn/thoi-trang/nhung-chiec-dam-tiec-tung-sanh-dieu-nhan-dip-cuoi-nam-2024-202412181639419743.html",
+          "tacGia": "Hoàng Nhi",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 19:00",
+          "chuyenMuc": "Thời Trang"
+        }
+      ]
+      
+}

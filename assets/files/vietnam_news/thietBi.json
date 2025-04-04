@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Máy điều hòa thế hệ mới tận dụng tối đa thế mạnh về trí tuệ nhân tạo",
+          "moTa": "'Hòa âm tầng không' là chủ đề của sự kiện ra mắt dải sản phẩm máy điều hòa LG DUALCOOL AI Air 2025 với cải tiến từ thiết kế đến công năng, do LG Electronics Việt Nam tổ chức ngày 17/12, tại Hà Nội.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_17_65_51011136/fa3af1d51a9af3c4aa8b.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/may-dieu-hoa-the-he-moi-tan-dung-toi-da-the-manh-ve-tri-tue-nhan-tao-c51011136.epi",
+          "tacGia": "Nguyễn Quỳnh",
+          "ngayDang": "Thứ Ba, 17/12/2024 - 13:59",
+          "chuyenMuc": "Thiết Bị"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Apple sẽ không định giá iPhone 17 Air là mẫu iPhone 17 đắt nhất",
+          "moTa": "Apple được cho là đang tiến hành những thay đổi đáng kể cho dòng sản phẩm iPhone 17 mà công ty dự kiến ra mắt vào tháng 9 năm sau.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_17_65_51004008/fe485ed3b49c5dc2048d.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/apple-se-khong-dinh-gia-iphone-17-air-la-mau-iphone-17-dat-nhat-c51004008.epi",
+          "tacGia": "CTV Kiến An",
+          "ngayDang": "Thứ Ba, 17/12/2024 - 9:29",
+          "chuyenMuc": "Thiết Bị"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Apple đặt cược tăng trưởng vào iPhone mỏng, gập",
+          "moTa": "Apple đang chuẩn bị một loạt các thay đổi lớn về thiết kế và kiểu dáng đối với dòng sản phẩm iPhone để hồi sinh tăng trưởng sau nhiều năm nâng cấp không đáng kể.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_17_23_51002839/f281be9457dbbe85e7ca.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/apple-dat-cuoc-tang-truong-vao-iphone-mong-gap-c51002839.epi",
+          "tacGia": "Du Lam",
+          "ngayDang": "Thứ Ba, 17/12/2024 - 7:29",
+          "chuyenMuc": "Thiết Bị"
+        }
+      ]
+      
+}

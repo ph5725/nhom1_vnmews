@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Bắc Kạn gỡ khó trong tổ chức bữa ăn bán trú cho học sinha",
+          "moTa": "VOV.VN - Theo Sở Giáo dục & Đào tạo Bắc Kạn, toàn bộ các trường học tại địa phương này sẽ phải tổ chức bữa ăn cho học sinh theo đúng Luật Đấu thầu ngay trong quý I/2025.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-12/rs-cac_truong_hoc_tai_bac_kan_van_duy_tri_bua_an_ban_tru_theo_phuong_thuc_quy_dinh_nhu_cac_nam_truoc_nham_dam_bao_cong_tac_day_hoc_cung_nhu_duy_tri_si_so_hoc_sinh.jpg",
+          "urlNoiDung": "https://vov.vn/xa-hoi/tin-24h/bac-kan-go-kho-trong-to-chuc-bua-an-ban-tru-cho-hoc-sinh-post1142759.vov",
+          "tacGia": "Công Luận",
+          "ngayDang": "Thứ Ba, 17/12/2024 - 19:38",
+          "chuyenMuc": "Giáo Dục"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Việt Nam SuperPort hợp tác thành lập phòng thí nghiệm logistics tại Vĩnh Phúc",
+          "moTa": "Ngày 17/12, Việt Nam SuperPort, Trường Đại học Công nghệ Giao thông Vận tải (UTT) và Học viện Chuỗi cung ứng và Logistics Singapore (SCALA) đã ký kết biên bản ghi nhớ thành lập phòng thí nghiệm logistics tiên tiến.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_23_51018198/0a2af0a91be6f2b8abf7.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/viet-nam-superport-hop-tac-thanh-lap-phong-thi-nghiem-logistics-tai-vinh-phuc-c51018198.epi",
+          "tacGia": "Thế Định",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 17:00",
+          "chuyenMuc": "Giáo Dục"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Đại học Sư phạm Hà Nội 2 đề xuất thành lập trường THCS và THPT",
+          "moTa": "Trường Đại học Sư phạm Hà Nội 2 (TP Phúc Yên, tỉnh Vĩnh Phúc) đề xuất thành lập trường THCS và THPT sư phạm trực thuộc nhà trường.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2024/12/17/nhaa1hpu2-107286.jpg?width=0&s=zegcVxKicOnIvgDJtqPhRg",
+          "urlNoiDung": "https://vietnamnet.vn/dai-hoc-su-pham-ha-noi-2-de-xuat-thanh-lap-truong-thcs-va-thpt-2353483.html",
+          "tacGia": "Đức Hoàng",
+          "ngayDang": "Thứ Ba, 17/12/2024 - 19:06",
+          "chuyenMuc": "Giáo Dục"
+        }
+      ]
+      
+}

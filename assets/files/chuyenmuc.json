@@ -1,0 +1,67 @@
+{
+    "data":
+    [    
+        {
+            "id": 1,
+            "name": "Nóng",
+            "img": "1.png"
+        },
+        {
+            "id": 2,
+            "name": "Công nghệ",
+            "img": "2.png"
+        },{
+            "id": 3,
+            "name": "Du lịch",
+            "img": "3.png"
+        },{
+            "id": 4,
+            "name": "Giải trí",
+            "img": "4.png"
+        },{
+            "id": 5,
+            "name": "Giáo dục",
+            "img": "5.png"
+        },{
+            "id": 6,
+            "name": "Kinh tế",
+            "img": "6.png"
+        },{
+            "id": 7,
+            "name": "Ẩm thực",
+            "img": "7.png"
+        },{
+            "id": 8,
+            "name": "Pháp luật",
+            "img": "8.png"
+        },{
+            "id": 9,
+            "name": "Sức khỏe",
+            "img": "9.png"
+        },{
+            "id": 10,
+            "name": "Thế giới",
+            "img": "10.png"
+        },{
+            "id": 11,
+            "name": "Thế giới xe",
+            "img": "11.png"
+        },{
+            "id": 12,
+            "name": "Thể thao",
+            "img": "12.png"
+        },{
+            "id": 13,
+            "name": "Thiết bị số và linh kiện",
+            "img": "13.png"
+        },{
+            "id": 14,
+            "name": "Thời sự",
+            "img": "14.png"
+        },{
+            "id": 15,
+            "name": "Thời trang",
+            "img": "15.png"
+        }
+    ]
+}

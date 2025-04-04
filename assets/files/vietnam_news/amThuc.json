@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Khách Tây lần đầu thử món phở 'tự túc' 100 nghìn ở TPHCM, ăn liền 2 bát vì ngon",
+          "moTa": "Món phở được phục vụ riêng từng phần khiến vị khách Tây thích thú, tự tay nhúng bánh phở và thịt bò vào thố nước dùng đang sôi, ăn liền 2 bát vì quá ngon.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r16x9/2024_12_07_23_50922406/069c568aa1c5489b11d4.jpg.webp",
+          "urlNoiDung": "https://vietnamnet.vn/khach-tay-lan-dau-thu-mon-pho-tu-tuc-100-nghin-o-tphcm-an-lien-2-bat-vi-ngon-2349633.html",
+          "tacGia": "Thảo Trinh",
+          "ngayDang": "Thứ Bảy, 07/12/2024 - 14:56",
+          "chuyenMuc": "Ẩm Thực"
+        },
+        {
+          "id": 2,
+          "tieuDe": "Mua thịt để xay nên chọn phần nào?",
+          "moTa": "Các món từ thịt heo, thịt bò xay vừa dễ nấu vừa dễ ăn, vậy mua thịt để xay nên chọn phần nào để món ăn có chất lượng tốt nhất?",
+          "nguon": "https://photo-baomoi.bmcdn.me/6eede58338c0d19e88d1.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w250_r3x2/2024_12_07_83_50922183/4cbb32b2c5fd2ca375ec.jpg.webp",
+          "urlNoiDung": "https://vtcnews.vn/mua-thit-de-xay-nen-chon-phan-nao-ar911604.html",
+          "tacGia": "Nhật Thủy",
+          "ngayDang": "Thứ Bảy, 07/12/2024 - 14:00",
+          "chuyenMuc": "Ẩm Thực"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Tranh nhau mua “lộc biển” mỗi năm chỉ có một mùa",
+          "moTa": "Đây là loài hải sản giống ngao biển nhưng kích thước lớn hơn, có màu hồng trắng. Ở một số nơi, loài hải sản này được gọi là nghêu hồng, vạng biển.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w250_r3x2_sm/2024_12_07_65_50918522/f12c3ecace8527db7e94.jpg.webp",
+          "urlNoiDung": "https://vov.vn/kinh-te/tranh-nhau-mua-loc-bien-moi-nam-chi-co-mot-mua-post1140305.vov",
+          "tacGia": "Diệp Diệp",
+          "ngayDang": "Thứ Bảy, 07/12/2024 - 06:00",
+          "chuyenMuc": "Ẩm Thực"
+        }
+      ]
+      
+}

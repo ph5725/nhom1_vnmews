@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Mỹ lo ngại Thổ Nhĩ Kỳ sắp động binh ở Syria",
+          "moTa": "TPO - Các quan chức cấp cao của Mỹ cho biết Thổ Nhĩ Kỳ và lực lượng dân quân đồng minh của nước này đang tập hợp lực lượng ở khu vực dọc biên giới với Syria, làm dấy lo ngại Ankara đang chuẩn bị cho một chiến dịch tấn công quy mô lớn qua biên giới vào khu vực mà người Kurd kiểm soát.",
+          "nguon": "https://photo-baomoi.bmcdn.me/b3a88dc75084b9dae095.png",
+          "urlImage": "https://image.tienphong.vn/w645/Uploaded/2024/aobsvhu/2024_12_18/ap24352562014894-9720.jpg",
+          "urlNoiDung": "https://tienphong.vn/my-lo-ngai-tho-nhi-ky-sap-dong-binh-o-syria-post1701893.tpo",
+          "tacGia": "Bình Giang",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 14:08",
+          "chuyenMuc": "Thế Giới"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Tổng thống Hàn Quốc không tuân thủ lệnh triệu tập",
+          "moTa": "Hãng tin Yonhap hôm nay (18/12) dẫn nguồn tin cho biết Tổng thống Hàn Quốc Yoon Suk-yeol đã không đến Văn phòng điều tra tham nhũng dành cho các quan chức cấp cao (CIO), bất chấp lệnh triệu tập trước đó.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_65_51019415/64be4cd7a7984ec61789.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/tong-thong-han-quoc-khong-tuan-thu-lenh-trieu-tap-c51019415.epi",
+          "tacGia": "CTV Mỹ Linh",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 17:12",
+          "chuyenMuc": "Thế Giới"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Nga bắt nghi phạm vụ hạ sát tướng quân đội ở Moscow",
+          "moTa": "Các nhà điều tra Nga bắt giữ một nam công dân Uzbekistan 29 tuổi với cáo buộc gài bom khiến tướng quân đội Nga Igor Kirillov thiệt mạng.",
+          "nguon": "https://photo-baomoi.bmcdn.me/3a2a57458a0663583a17.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_5_51018297/cc6626e3cdac24f27dbd.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/nga-bat-nghi-pham-vu-ha-sat-tuong-quan-doi-o-moscow-c51018297.epi",
+          "tacGia": "Thái An",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 15:39",
+          "chuyenMuc": "Thế Giới"
+        }
+      ]
+      
+}

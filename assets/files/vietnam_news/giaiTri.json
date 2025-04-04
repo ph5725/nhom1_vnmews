@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Diễn viên Kim Tuyến 'kết hôn' ở tuổi 37, danh tính chú rể khiến dân tình dậy sóng",
+          "moTa": "Ảnh cưới của diễn viên Kim Tuyến khiến nhiều người không khỏi tò mò.",
+          "nguon": "https://photo-baomoi.bmcdn.me/42bc76d3ab9042ce1b81.png",
+          "urlImage": "https://ss-images.saostar.vn/2024/12/18/pc/1734457684015/51i7xve6041-h0x6n4stwc2-symorknjfy3.jpg",
+          "urlNoiDung": "https://www.saostar.vn/dien-anh/dien-vien-kim-tuyen-ket-hon-o-tuoi-37-chu-re-la-ai-202412181113001743.html",
+          "tacGia": "Hạ Băng",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 13:00",
+          "chuyenMuc": "Giải Trí"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Lý do Hoa hậu Thùy Tiên và 3 nàng hậu khác không dự đám cưới Khánh Vân",
+          "moTa": "Khánh Vân tiết lộ lý do Hoa hậu Thùy Tiên, Đỗ Thị Hà, Lương Thùy Linh vắng mặt tại lễ cưới.",
+          "nguon": "https://photo-baomoi.bmcdn.me/42bc76d3ab9042ce1b81.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_329_51017311/fe5c56f1bdbe54e00daf.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/ly-do-hoa-hau-thuy-tien-va-3-nang-hau-khac-khong-du-dam-cuoi-khanh-van-c51017311.epi",
+          "tacGia": "Mỹ Miều",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 14:00",
+          "chuyenMuc": "Giải Trí"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Biến động thị trường phim Việt cuối năm",
+          "moTa": "Đường đua phim Việt cuối năm chứng kiến sự xuất hiện bất ngờ của 'Chị dâu' - có Ngọc Trinh, Việt Hương - Hồng Đào... Bên cạnh đó, 'Kính vạn hoa' bản điện ảnh cũng là dự án được nhiều khán giả chờ đợi.",
+          "nguon": "https://photo-baomoi.bmcdn.me/b3a88dc75084b9dae095.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_20_51017789/aa5c25e4ceab27f57eba.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/bien-dong-thi-truong-phim-viet-cuoi-nam-c51017789.epi",
+          "tacGia": "Minh Nhật",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 15:00",
+          "chuyenMuc": "Giải Trí"
+        }
+      ]
+      
+}

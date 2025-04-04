@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Động cơ hybrid mới của Honda sẽ tiết kiệm nhiên liệu hơn",
+          "moTa": "TPO - Theo Honda, hệ thống động cơ hybrid thế hệ tiếp theo sẽ đem lại hiệu suất và khả năng tiết kiệm nhiên liệu tốt hơn so với phiên bản e:HEV hiện hành.",
+          "nguon": "https://photo-baomoi.bmcdn.me/b3a88dc75084b9dae095.png",
+          "urlImage": "https://image.tienphong.vn/w645/Uploaded/2024/mdf-vodekx/2024_12_18/honda-next-gen-hybrid-1217-17-1064.jpg",
+          "urlNoiDung": "https://tienphong.vn/dong-co-hybrid-moi-cua-honda-se-tiet-kiem-nhien-lieu-hon-post1701887.tpo",
+          "tacGia": "Lê Tuấn",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 13:30",
+          "chuyenMuc": "Thế Giới Xe"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Malaysia ra mắt xe điện thương hiệu quốc gia đầu tiên Proton",
+          "moTa": "Mẫu xe ô tô điện đầu tiên của Malaysia mang tên Proton e.MAS 7 có mức giá khá mềm, hứa hẹn sẽ cạnh tranh cũng các đối thủ lớn như Tesla hay BYD ngay tại thi trường ô tô lớn thứ hai Đông Nam Á.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2024/12/18/proton-emas7-2-104349.avif?width=0&s=ECx_YsrpUT5e5KbunI6qIA",
+          "urlNoiDung": "https://vietnamnet.vn/malaysia-ra-mat-xe-dien-thuong-hieu-quoc-gia-dau-tien-proton-2353762.html",
+          "tacGia": "Hoàng Hiệp",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 18:44",
+          "chuyenMuc": "Thế Giới Xe"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Cận cảnh Lamborghini Aventador độ thân rộng duy nhất tại Việt Nam",
+          "moTa": "Siêu xe Lamborghini Aventador Liberty Walk duy nhất tại Việt Nam lộ diện với màu sơn mới trước khi được nâng cấp sang phiên bản SVJ.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2024/12/18/w-lamborghini-aventador-liberty-walk-10-104235.jpg?width=0&s=v8b7_ZvqOEVlmckdKVMfSg",
+          "urlNoiDung": "https://vietnamnet.vn/can-canh-sieu-xe-lamborghini-aventador-do-than-rong-duy-nhat-tai-viet-nam-2353915.html",
+          "tacGia": "Nhật Hoàng",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 18:11",
+          "chuyenMuc": "Thế Giới Xe"
+        }
+      ]
+      
+}

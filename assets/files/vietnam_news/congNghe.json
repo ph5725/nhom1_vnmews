@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Honda và Nissan đàm phán để sáp nhập",
+          "moTa": "VOV.VN - Trong lĩnh vực sản xuất xe điện (EV), hai “ông lớn” ô tô nổi tiếng của Nhật Bản là Honda Motor và Nissan đã bắt đầu đàm phán sáp nhập lại để có thể cạnh tranh tốt hơn trong ngành công nghiệp sản xuất ô tô toàn cầu.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://media.vov.vn/sites/default/files/styles/large/public/2024-12/nissan_honda_reuters_0650_20241218084104.jpg",
+          "urlNoiDung": "https://vov.vn/o-to-xe-may/honda-va-nissan-dam-phan-de-sap-nhap-post1142831.vov",
+          "tacGia": "Ngọc Huân",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 10:11",
+          "chuyenMuc": "Công Nghệ"
+        },
+        {
+          "id": 2,
+          "tieuDe": "Meta bị phạt 263 triệu USD vì sự cố bảo mật năm 2017",
+          "moTa": "Liên minh châu Âu phạt Meta 251 triệu EUR (263 triệu USD) vì sự cố bảo mật ảnh hưởng đến hàng triệu người dùng năm 2017.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w250_r3x2/2024_12_18_23_51014639/5b802a70c13f2861712e.jpg.webp",
+          "urlNoiDung": "https://vietnamnet.vn/meta-bi-phat-263-trieu-usd-vi-su-co-bao-mat-nam-2017-2353625.html",
+          "tacGia": "Du Luân",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 9:37",
+          "chuyenMuc": "Công Nghệ"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Luật Bảo vệ dữ liệu cá nhân: Doanh nghiệp đã sẵn sàng?",
+          "moTa": "Luật Bảo vệ dữ liệu cá nhân đánh dấu bước tiến lớn trong việc hoàn thiện cơ chế thực thi quyền dữ liệu và áp dụng các chế tài nghiêm khắc. Tuy nhiên, nhiều doanh nghiệp hiện vẫn chưa nhận thức đầy đủ về tầm quan trọng của việc bảo vệ dữ liệu cá nhân.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.pnga",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w250_r3x2/2024_12_18_23_51012709/88ed38e9d2a63bf862b7.jpg.webp",
+          "urlNoiDung": "https://vietnamnet.vn/luat-bao-ve-du-lieu-ca-nhan-doanh-nghiep-da-san-sang-2353445.html",
+          "tacGia": "Tuấn Huy",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 6:17",
+          "chuyenMuc": "Công Nghệ"
+        }
+      ]
+      
+}

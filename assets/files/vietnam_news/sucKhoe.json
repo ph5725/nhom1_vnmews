@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Thủng nội tạng sau khi tự chữa đau lưng",
+          "moTa": "Bị đau lưng mạn tính, người bệnh tự mua thuốc uống và dẫn đến thủng nội tạng, viêm phúc mạc.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_23_51018986/064a54dfbf9056ce0f81.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/thung-noi-tang-sau-khi-tu-chua-dau-lung-c51018986.epi",
+          "tacGia": "Phương Thúy",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 18:04",
+          "chuyenMuc": "Sức Khỏe"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Australia cảnh báo nguy cơ bùng phát dịch lở loét Buruli",
+          "moTa": "Hôm nay (18/12), các chuyên gia y tế Australia đã đưa ra cảnh báo về nguy cơ bùng phát dịch lở loét Buruli, một bệnh lây truyền nguy hiểm đối với cả con người và động vật, với muỗi là tác nhân truyền bệnh chính.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_65_51019022/5ab27adb919478ca2185.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/australia-canh-bao-nguy-co-bung-phat-dich-lo-loet-buruli-c51019022.epi",
+          "tacGia": "PV/VOV-Australia",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 18:24",
+          "chuyenMuc": "Sức Khỏe"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Chuyên gia nội tiết cảnh báo nguy cơ mỡ máu, tiểu đường từ đồ ăn vặt thường ngày",
+          "moTa": "Ăn vặt tưởng chừng vô hại nhưng lại tiềm ẩn nhiều rủi ro về sức khỏe, đặc biệt là mỡ máu và tiểu đường. BS. Hoàng Thu Trang (Khoa Đái tháo đường - BV Nội tiết Trung ương) đưa ra lời khuyên về việc kiểm soát lượng calo từ đồ ăn vặt để bảo vệ sức khỏe.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_23_51018987/b845c8d0239fcac1938e.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/chuyen-gia-noi-tiet-canh-bao-nguy-co-mo-mau-tieu-duong-tu-do-an-vat-thuong-ngay-c51018987.epi",
+          "tacGia": "Bích Đào",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 18:44",
+          "chuyenMuc": "Sức Khỏe"
+        }
+      ]
+      
+}

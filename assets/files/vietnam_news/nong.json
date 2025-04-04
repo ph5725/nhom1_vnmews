@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Nền nông nghiệp tử tế",
+          "moTa": "VOV.VN - Tăng trưởng về năng suất và chất lượng là điều cần thiết, nhưng trong bối cảnh hiện nay, một nền nông nghiệp bền vững phải là nền nông nghiệp không chỉ tạo ra lợi ích kinh tế mà còn phải đặt trách nhiệm với cộng đồng và môi trường lên hàng đầu.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-06/2_tom_lua_duoc_xem_la_mo_hinh_ben_vung_thich_ung_bien_doi_khi_hau_20240628132009.jpg",
+          "urlNoiDung": "https://vov.vn/kinh-te/nen-nong-nghiep-tu-te-post1135496.vov",
+          "tacGia": "Phương Chi - Trần Long",
+          "ngayDang": "Chủ Nhật, 17/11/2024 - 06:00",
+          "chuyenMuc": "Nóng"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Tái cơ cấu nông nghiệp: Đẩy mạnh liên kết trong sản xuất và tiêu thụ",
+          "moTa": "VOV.VN - Thúc đẩy tái cơ cấu nông nghiệp, sáng nay (28/8) tại Hà Nội, Liên minh Hợp tác xã Việt Nam phối hợp với Bộ Nông nghiệp và Phát triển nông thôn tổ chức Diễn đàn “Tái cơ cấu nông nghiệp: Giải pháp phát triển hiệu quả và bền vững chuỗi giá trị nông sản” với sự tham gia của các chuyên gia, nhà quản lý, hợp tác xã và doanh nghiệp hoạt động trong lĩnh vực nông nghiệp.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-08/dien_dan_phat_trien_ben_vung_chuoi_gia_tri_nong_san.jpg",
+          "urlNoiDung": "https://vov.vn/kinh-te/tai-co-cau-nong-nghiep-day-manh-lien-ket-trong-san-xuat-va-tieu-thu-post1117326.vov",
+          "tacGia": "Minh Long",
+          "ngayDang": "Thứ Tư, 28/8/2024 - 16:28",
+          "chuyenMuc": "Nóng"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Thủ tướng: Ngành Nông nghiệp phải đẩy mạnh cơ giới hóa và ứng dụng KHCN",
+          "moTa": "VOV.VN - Thủ tướng yêu cầu Ngành Nông nghiệp và Phát triển nông thôn phải đẩy mạnh cơ giới hóa và ứng dụng khoa học công nghệ, công nghệ cao, thông minh, tự động hóa trong sản xuất nông nghiệp;",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-01/z5036362640344_0bba133f13744a1d10f20991ce1e8a21.jpg",
+          "urlNoiDung": "https://vov.vn/chinh-tri/thu-tuong-nganh-nong-nghiep-phai-day-manh-co-gioi-hoa-va-ung-dung-khcn-post1069521.vov",
+          "tacGia": "Vũ Khuyên",
+          "ngayDang": "Thứ Tư, 03/01/2024 - 18:04",
+          "chuyenMuc": "Nóng"
+        }
+      ]
+      
+}

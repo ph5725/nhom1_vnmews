@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Đề nghị doanh nghiệp hàng không, quốc phòng Mỹ hợp tác chuyển giao công nghệ",
+          "moTa": "Chiều 18/12, Thủ tướng Phạm Minh Chính tiếp đoàn doanh nghiệp ngành hàng không vũ trụ, quốc phòng, an ninh của Hội đồng Kinh doanh Mỹ - ASEAN (USABC) tham dự Triển lãm Quốc phòng quốc tế lần thứ 2.",
+          "nguon": "https://photo-baomoi.bmcdn.me/26dc73b3aef047ae1ee1.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_23_51021809/71fc43dea89141cf1880.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/de-nghi-doanh-nghiep-hang-khong-quoc-phong-my-hop-tac-chuyen-giao-cong-nghe-c51021809.epi",
+          "tacGia": "Trần Thường",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 22:10",
+          "chuyenMuc": "Thời Sự"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Đoàn công tác Ban Chỉ đạo 35 làm việc với Cục An ninh chính trị nội bộ",
+          "moTa": "Chiều 18/12, Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng ban Tuyên giáo Trung ương Nguyễn Trọng Nghĩa, Phó trưởng Ban Chỉ đạo 35 Trung ương thăm và làm việc tại Cục An ninh chính trị nội bộ, Bộ Công an.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_65_51021354/ab7790567b199247cb08.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/doan-cong-tac-ban-chi-dao-35-lam-viec-voi-cuc-an-ninh-chinh-tri-noi-bo-c51021354.epi",
+          "tacGia": "Thúy Hằng",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 21:20",
+          "chuyenMuc": "Thời Sự"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Thủ tướng: Xây dựng Học viện Kỹ thuật quân sự thành thương hiệu có tiếng trong khu vực và thế giới",
+          "moTa": "Theo Thủ tướng Chính phủ Phạm Minh Chính, Học viện Kỹ thuật quân sự (Bộ Quốc phòng) cần đẩy mạnh nghiên cứu khoa học công nghệ đổi mới sáng tạo và chuyển đổi số; phát huy lòng đam mê, khát vọng, tư duy đổi mới, tầm nhìn chiến lược, nghĩ lớn, làm lớn, 'đổi mới để bay cao, sáng tạo để vươn xa, hội nhập để phát triển'.",
+          "nguon": "https://photo-baomoi.bmcdn.me/b3a88dc75084b9dae095.png",
+          "urlImage": "https://photo-baomoi.bmcdn.me/w700_r1/2024_12_18_20_51021512/6f5dff0b1444fd1aa455.jpg.webp",
+          "urlNoiDung": "https://baomoi.com/thu-tuong-xay-dung-hoc-vien-ky-thuat-quan-su-thanh-thuong-hieu-co-tieng-trong-khu-vuc-va-the-gioi-c51021512.epi",
+          "tacGia": "Trường Phong",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 21:15",
+          "chuyenMuc": "Thời Sự"
+        }
+      ]
+      
+}

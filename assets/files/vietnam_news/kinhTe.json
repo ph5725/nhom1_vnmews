@@ -1,0 +1,39 @@
+{
+    "articles":
+    [
+        {
+          "id": 1,
+          "tieuDe": "Doanh nghiệp than gặp phiền hà về thủ tục hành chính thuế",
+          "moTa": "VOV.VN - Vẫn có tới 31% doanh nghiệp gặp phiền hà trong thực hiện thủ tục hành chính thuế, đặc biệt là các doanh nghiệp siêu nhỏ, nhỏ và vừa; Quy trình kê khai, nộp thuế, hoàn thuế và quyết toán thuế vẫn còn phức tạp, gây mất thời gian và tốn kém chi phí cho doanh nghiệp.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-12/hoi_thao_1_0.jpg",
+          "urlNoiDung": "https://vov.vn/kinh-te/doanh-nghiep-than-gap-phien-ha-ve-thu-tuc-hanh-chinh-thue-post1142951.vov",
+          "tacGia": "Chung Thủy",
+          "ngayDang": "Thứ Ba, 17/12/2024 - 19:06a",
+          "chuyenMuc": "Kinh Tế"
+        },
+        {
+          "id": 2,
+         "tieuDe": "Tín dụng bất động sản tại TP.HCM đạt được những kết quả tích cực",
+          "moTa": "VOV.VN - Tính đến tháng hết tháng 10/2024, tổng dư nợ tín dụng bất động sản ở TP.HCM đạt 1,047 triệu tỷ đồng, tăng 8,5% so với cuối năm và chiếm 27,6% trong tổng dư nợ tín dụng trên địa bàn.",
+          "nguon": "https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png",
+          "urlImage": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-12/z6142613502108_bbaee0a77f5925adbd16407405a4f577.jpg",
+          "urlNoiDung": "https://vov.vn/kinh-te/tin-dung-bat-dong-san-tai-tphcm-dat-duoc-nhung-ket-qua-tich-cuc-post1142987.vov",
+          "tacGia": "Hoàng Minh",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 18:51",
+          "chuyenMuc": "Kinh Tế"
+        },
+        {
+          "id": 3,
+          "tieuDe": "Xuất khẩu lao động: Không có chuyện việc nhẹ, lương cao?",
+          "moTa": "TPO - Theo Thứ trưởng Bộ Lao động - Thương binh và Xã hội Nguyễn Bá Hoan, nhiều doanh nghiệp cạnh tranh không lành mạnh như thông tin về lương không chính xác, làm người lao động ảo tưởng thu nhập cao. Ông Hoan khẳng định không có việc giản đơn, lương cao, đào tạo ngắn khi muốn ra nước ngoài làm việc.",
+          "nguon": "https://photo-baomoi.bmcdn.me/b3a88dc75084b9dae095.png",
+          "urlImage": "https://image.tienphong.vn/w645/Uploaded/2024/eioxzreyxq/2024_12_18/z6141610036403-29594ec49ad0394d4a0ca86dd9840da0-6052.jpg",
+          "urlNoiDung": "https://tienphong.vn/xuat-khau-lao-dong-khong-co-chuyen-viec-nhe-luong-cao-post1701981.tpo",
+          "tacGia": "Uyên Phương",
+          "ngayDang": "Thứ Tư, 18/12/2024 - 17:48",
+          "chuyenMuc": "Kinh Tế"
+        }
+      ]
+      
+}
